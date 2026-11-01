@@ -6,7 +6,7 @@ export default function Home() {
     <main className="page-shell">
       <header className="site-header">
         <a className="wordmark" href="/">EDUARDO IS A BITCH</a>
-        <span className="header-note">A personal memory lane <3</span>
+        <span className="header-note">A personal memory lane</span>
       </header>
 
       <section className="intro">
