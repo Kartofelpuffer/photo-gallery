@@ -11,7 +11,7 @@ export default function Home() {
 
       <section className="intro">
         <p className="eyebrow">MY FAVORITES</p>
-        <h1>Places, excursions<br />and everything between. </h1>
+        <h3>Excursions, trips<br />and everything between. </h3>
         <p className="intro-copy">
           A growing collection of photographs. Select an image to see its story.
         </p>
