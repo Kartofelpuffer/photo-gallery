@@ -1,8 +1,14 @@
 [
   {
     "id": "sample-001",
-    "src": "/photos/image_1.jpg",
+    "src": "/photos/IMG_5533.JPG",
     "title": "Fur Sato",
     "description": "Eduardo Kenji Guiamares Sato in a furry filter <3"
+  } 
+  {
+    "id": "sample-002",
+    "src": "/photos/image_1.jpg",
+    "title": "OG TEST",
+    "description": "THE OG TEST PHOTO"
   }
 ]
