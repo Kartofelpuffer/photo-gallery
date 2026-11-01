@@ -1,9 +1,21 @@
 [
   {
+    "id": "txst_sato",
+    "src": "/photos/TXST_sato.jpg",
+    "title": "TXST Sato",
+    "description": "An immigrant named 'Eduardo Kenji Guimarães Sato' at THE esteemed Texas State University of San Marcos, Texas."
+    },
+  {
     "id": "fur_sato",
     "src": "/photos/fur_sato.jpg",
     "title": "Fur Sato",
     "description": "Eduardo Kenji Guimarães Sato in a furry filter <3"
+    },
+  {
+    "id": "athletic_sato",
+    "src": "/photos/athletic_sato.jpg",
+    "title": "Athletic Sato",
+    "description": "A newly minted regional qualifier Eduardo Sato poses for a flick while being called 'Papi Sato'."
     },
   {
     "id": "asian_sato",
@@ -59,4 +71,10 @@
     "title": "Tinder Sato",
     "description": "An informal visit to a nearby home resulted in this flick that depicts the immigrant posing with another mans dog to, 'attract women on tinder'."
   }
+  {
+    "id": "my_sato",
+    "src": "/photos/my_sato.jpg",
+    "title": "My Sato",
+    "description": "Lastly, MY Sato. Eduardo is MY bitch. Don't forget."
+    },
 ]
