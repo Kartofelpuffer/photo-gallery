@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <main className="page-shell">
       <header className="site-header">
-        <a className="wordmark" href="/">EDUARDO IS A BITCH</a>
-        <span className="header-note">A personal memory lane</span>
+        <a className="wordmark" href="/">EDUARDO IS A BITCH </a>
+        <span className="header-note">A personal memory lane </span>
       </header>
 
       <section className="intro">
         <p className="eyebrow">MY FAVORITES</p>
-        <h1>Places, excursions<br />and everything between.</h1>
+        <h1>Places, excursions<br />and everything between. </h1>
         <p className="intro-copy">
           A growing collection of photographs. Select an image to see its story.
         </p>
